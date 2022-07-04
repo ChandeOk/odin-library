@@ -1,4 +1,4 @@
-'strict mode';
+'use strict';
 
 const mainContainer = document.querySelector('main');
 const form = document.querySelector('.pop-up');
